@@ -16,4 +16,4 @@
 
 
 
-4. The code is optimized
+4. Python environment 3.12.6
