@@ -4,7 +4,7 @@
 
 
 
-1. The service is recommended to run on the server and run 24 hours a day
+1. The service (（meiriyiju.py）) is recommended to run on the server and run 24 hours a day
 
 
 
